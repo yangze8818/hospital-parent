@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-parent/core-parent.iml" filepath="$PROJECT_DIR$/core-parent/core-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-parent/his-api/his-api.iml" filepath="$PROJECT_DIR$/his-parent/his-api/his-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-parent/his-biz/his-biz.iml" filepath="$PROJECT_DIR$/his-parent/his-biz/his-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-parent/his-dao/his-dao.iml" filepath="$PROJECT_DIR$/his-parent/his-dao/his-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-parent/his-entities/his-entities.iml" filepath="$PROJECT_DIR$/his-parent/his-entities/his-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-parent/his-parent.iml" filepath="$PROJECT_DIR$/his-parent/his-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-parent/his-rest/his-rest.iml" filepath="$PROJECT_DIR$/his-parent/his-rest/his-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-parent/hospital-core-etc/hospital-core-etc.iml" filepath="$PROJECT_DIR$/core-parent/hospital-core-etc/hospital-core-etc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospital-parent.iml" filepath="$PROJECT_DIR$/hospital-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/karaf-features/karaf-features.iml" filepath="$PROJECT_DIR$/karaf-features/karaf-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-web/middleware-oauth-web.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-web/middleware-oauth-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermap-parent/usermap-api/usermap-api.iml" filepath="$PROJECT_DIR$/usermap-parent/usermap-api/usermap-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermap-parent/usermap-biz/usermap-biz.iml" filepath="$PROJECT_DIR$/usermap-parent/usermap-biz/usermap-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermap-parent/usermap-dao/usermap-dao.iml" filepath="$PROJECT_DIR$/usermap-parent/usermap-dao/usermap-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermap-parent/usermap-entities/usermap-entities.iml" filepath="$PROJECT_DIR$/usermap-parent/usermap-entities/usermap-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermap-parent/usermap-parent.iml" filepath="$PROJECT_DIR$/usermap-parent/usermap-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermap-parent/usermap-rest/usermap-rest.iml" filepath="$PROJECT_DIR$/usermap-parent/usermap-rest/usermap-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-api/weixin-api.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-api/weixin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-biz/weixin-biz.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-biz/weixin-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-dao/weixin-dao.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-dao/weixin-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-entities/weixin-entities.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-entities/weixin-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-parent.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-rest/weixin-rest.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-rest/weixin-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin-parent/weixin-web/weixin-web.iml" filepath="$PROJECT_DIR$/weixin-parent/weixin-web/weixin-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.3.0" name="kalix-features-hospital-${project.hospital.version}">
+
+    <feature name="hospital-all" version="${project.hospital.version}">
+        <feature>hospital-core</feature>
+        <feature>hospital-usermap</feature>
+        <feature>hospital-weixin</feature>
+		<feature>hospital-his</feature>
+        <feature>hospital-config</feature>
+    </feature>
+
+    <feature name="hospital-core" version="${project.hospital.version}">
+        <bundle>mvn:com.kalix.hospital.core/hospital-core-etc/${project.hospital.version}</bundle>
+    </feature>
+
+    <feature name="hospital-usermap" version="${project.hospital.version}">
+        <bundle>mvn:com.kalix.hospital.usermap/usermap-entities/${project.hospital.version}</bundle>
+        <bundle>mvn:com.kalix.hospital.usermap/usermap-api/${project.hospital.version}</bundle>
+        <bundle>mvn:com.kalix.hospital.usermap/usermap-dao/${project.hospital.version}</bundle>
+        <bundle>mvn:com.kalix.hospital.usermap/usermap-biz/${project.hospital.version}</bundle>
+        <bundle>mvn:com.kalix.hospital.usermap/usermap-rest/${project.hospital.version}</bundle>
+    </feature>
+
+    <feature name="hospital-weixin" version="${project.hospital.version}">
+        <bundle>mvn:com.kalix.hospital.weixin/weixin-api/${project.hospital.version}</bundle>
+        <bundle>mvn:com.kalix.hospital.weixin/weixin-biz/${project.hospital.version}</bundle>
+        <bundle>mvn:com.kalix.hospital.weixin/weixin-rest/${project.hospital.version}</bundle>
+    </feature>
+
+
+    <feature name="hospital-config" version="${project.hospital.version}">
+        <configfile finalname="/etc/config.hospital.app.cfg" override="true">
+            mvn:com.kalix.hospital.core/hospital-core-etc/${project.hospital.version}/cfg/config.hospital.app
+        </configfile>
+        <configfile finalname="/etc/config.hospital.dict.cfg" override="true">
+            mvn:com.kalix.hospital.core/hospital-core-etc/${project.hospital.version}/cfg/config.hospital.dict
+        </configfile>
+    </feature>
+
+</features>

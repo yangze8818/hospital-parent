@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-parent/hospital-core-etc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-parent/his-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-parent/his-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-parent/his-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-parent/his-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-parent/his-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/karaf-features" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermap-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermap-parent/usermap-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermap-parent/usermap-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermap-parent/usermap-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermap-parent/usermap-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usermap-parent/usermap-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent/weixin-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent/weixin-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent/weixin-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent/weixin-entities" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent/weixin-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weixin-parent/weixin-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

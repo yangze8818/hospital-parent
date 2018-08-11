@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="his-api" />
+        <module name="his-biz" />
+        <module name="his-dao" />
+        <module name="his-entities" />
+        <module name="his-rest" />
+        <module name="hospital-core-etc" />
+        <module name="middleware-oauth-web" />
+        <module name="usermap-api" />
+        <module name="usermap-biz" />
+        <module name="usermap-dao" />
+        <module name="usermap-entities" />
+        <module name="usermap-rest" />
+        <module name="weixin-api" />
+        <module name="weixin-biz" />
+        <module name="weixin-dao" />
+        <module name="weixin-entities" />
+        <module name="weixin-rest" />
+        <module name="weixin-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core-parent" target="1.8" />
+      <module name="his-api" target="1.8" />
+      <module name="his-biz" target="1.8" />
+      <module name="his-dao" target="1.8" />
+      <module name="his-entities" target="1.8" />
+      <module name="his-parent" target="1.8" />
+      <module name="his-rest" target="1.8" />
+      <module name="hospital-core-etc" target="1.8" />
+      <module name="hospital-parent" target="1.8" />
+      <module name="karaf-features" target="1.8" />
+      <module name="middleware-oauth-web" target="1.8" />
+      <module name="usermap-api" target="1.8" />
+      <module name="usermap-biz" target="1.8" />
+      <module name="usermap-dao" target="1.8" />
+      <module name="usermap-entities" target="1.8" />
+      <module name="usermap-parent" target="1.8" />
+      <module name="usermap-rest" target="1.8" />
+      <module name="weixin-api" target="1.8" />
+      <module name="weixin-biz" target="1.8" />
+      <module name="weixin-dao" target="1.8" />
+      <module name="weixin-entities" target="1.8" />
+      <module name="weixin-parent" target="1.8" />
+      <module name="weixin-rest" target="1.8" />
+      <module name="weixin-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
